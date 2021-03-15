@@ -1,5 +1,7 @@
 # MusicPlayerJS
 A music player made using vanilla Javascript.
+* Live At: https://ritish78.github.io/MusicPlayerJS/
+  * Music won't be played in the live website as we don't have music in the root directory.
 
 # How to install: 
 * First clone this repository by typing in terminal:
